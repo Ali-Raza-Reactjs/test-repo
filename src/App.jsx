@@ -8,7 +8,6 @@ function App() {
   const [count, setCount] = useState(0)
 // test commit 001
 // test commit 002
-// test commit 003
   return (
     <>
       <section id="center">
